@@ -1,6 +1,6 @@
 [
 null,
 {"id":1,"expanded":true,"name":"学校","order":1,"parentId":0,"scrollX":868,"scrollY":494.6666666666667},
-{"id":2,"expanded":true,"name":"学校裏","order":2,"parentId":1,"scrollX":832,"scrollY":640},
-{"id":3,"expanded":false,"name":"学校裏2","order":3,"parentId":1,"scrollX":832,"scrollY":640}
+null,
+{"id":3,"expanded":false,"name":"学校裏","order":2,"parentId":1,"scrollX":878.6666666666666,"scrollY":494.6666666666667}
 ]
