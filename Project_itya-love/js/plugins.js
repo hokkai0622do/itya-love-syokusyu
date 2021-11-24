@@ -9,5 +9,6 @@ var $plugins =
 {"name":"MessageWindowHidden","status":true,"description":"メッセージウィンドウ一時消去プラグイン","parameters":{"triggerButton":"[\"右クリック\"]","triggerSwitch":"0","linkPictureNumbers":"[]","linkShowPictureNumbers":"[]","disableLinkSwitchId":"0","disableSwitchId":"0","disableInBattle":"false","disableInChoice":"true"}},
 {"name":"SAN_AnalogMove","status":true,"description":"アナログムーブ 3.1.5\r\nパーティキャラクターの移動をドット移動に変更します。","parameters":{}},
 {"name":"UTA_MessageSkip","status":true,"description":"特定キーを押す事でメッセージをスキップできるようにします。","parameters":{"Skip Key":"control","Show Trace":"false"}},
-{"name":"Yami_SkipTitle","status":true,"description":"テストプレイ用にタイトルシーンを飛ばすことができます。","parameters":{}}
+{"name":"Yami_SkipTitle","status":true,"description":"テストプレイ用にタイトルシーンを飛ばすことができます。","parameters":{}},
+{"name":"TMRegionPassable","status":true,"description":"その場所が通行可能かどうかをリージョンで設定できるようになります。","parameters":{"passableRegions":"251","dontPassRegions":"252 253","counterRegions":"253"}}
 ];
