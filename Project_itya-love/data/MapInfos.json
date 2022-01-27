@@ -4,7 +4,7 @@ null,
 {"id":2,"expanded":false,"name":"物置","order":8,"parentId":5,"scrollX":878.6666666666666,"scrollY":494},
 {"id":3,"expanded":true,"name":"夜の裏庭","order":7,"parentId":5,"scrollX":878.6666666666666,"scrollY":494},
 {"id":4,"expanded":true,"name":"教室1-1","order":2,"parentId":1,"scrollX":878.6666666666666,"scrollY":494},
-{"id":5,"expanded":true,"name":"裏庭","order":6,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":5,"expanded":true,"name":"裏庭","order":6,"parentId":0,"scrollX":878.6666666666666,"scrollY":494},
 {"id":6,"expanded":true,"name":"廊下","order":4,"parentId":1,"scrollX":1041.3333333333333,"scrollY":483.3333333333333},
 {"id":7,"expanded":false,"name":"学校 廊下 お手本","order":5,"parentId":6,"scrollX":1041.3333333333333,"scrollY":483.3333333333333},
 {"id":8,"expanded":false,"name":"教室1-2","order":3,"parentId":1,"scrollX":878.6666666666666,"scrollY":494}
